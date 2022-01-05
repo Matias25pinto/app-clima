@@ -1,0 +1,17 @@
+{
+  "name": "clima-app",
+  "version": "1.0.0",
+  "description": "App del clima",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "colors": "^1.4.0",
+    "dotenv": "^8.2.0",
+    "inquirer": "^8.0.0"
+  }
+}
