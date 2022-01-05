@@ -1,3 +1,3 @@
 # app-clima
-#Para ejecutar la aplicaci
-node app.js
+### Instalación 🔧
+_node app.js_
